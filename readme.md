@@ -1,0 +1,1 @@
+Trial of implementing GD (Gradien Descend) and GA (Genetic Algorithm) on Linear Regression
